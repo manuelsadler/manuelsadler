@@ -22,7 +22,7 @@ class Animal:
 
 
 
-emp_1=Employee('Manuel','Sadler',40000)
+emp_1=Employee('Manue','Sadler',40000)
 
 
 tier1=Animal('Hund','Saeugetier','Hunter')
